@@ -1,7 +1,6 @@
 import os.path
 import unittest
 
-
 def get_tests():
     return full_suite()
 
